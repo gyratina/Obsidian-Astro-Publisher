@@ -1,0 +1,1 @@
+Script realizzato con Gemini 3.0 e 3.1 Pro attraverso dei prompt estremamente precisi e dettagliati, in quanto ho pensato accuratamente il modo in cui volessi poter selezionare i file da poter pubblicare sul mio sito web Astro con Obsidian attraverso la sua Palette dei comandi e QuickAdd.
