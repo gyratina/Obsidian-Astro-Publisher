@@ -7,7 +7,7 @@ module.exports = async function (params) {
     // ⚙️ CONFIGURAZIONE UTENTE
     // =========================================================================
     const CONFIG = {
-        ASTRO_CONTENT_PATH: "/home/v/valerioditommaso/src/content",
+        ASTRO_CONTENT_PATH: "your/content/path",
         INTERNAL_VAULT_FOLDER: "Website", 
         CATEGORIES: {
             "Blog Post": {
